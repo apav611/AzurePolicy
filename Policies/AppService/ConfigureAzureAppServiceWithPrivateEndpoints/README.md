@@ -4,7 +4,7 @@ Internal App Services should restrict access to a private IP on an internal VNet
 
 # Tagging Example
 
-tagName: Type<br>
+tagName: Type <br>
 tagValue: Internal
 
 Complimentary Policy requiring tagging and allowed values on App Service needed to enforce guardrail.
