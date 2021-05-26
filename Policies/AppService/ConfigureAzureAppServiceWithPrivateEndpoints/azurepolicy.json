@@ -1,6 +1,7 @@
 {
     "properties": {
       "displayName": "Configure Azure App Service with private endpoints",
+      "description": "Deploys Private Endpoint for App Service with a tag key type:internal",
       "policyType": "Custom",
       "mode": "Indexed",
       "metadata": {
